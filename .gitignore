@@ -1,0 +1,2 @@
+# Why does Jython think it is okay to keep this junk around?
+*.class
